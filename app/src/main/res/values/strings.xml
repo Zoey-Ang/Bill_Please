@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="number_of_people">number of people</string>
+    <string name="svs">SVS</string>
+    <string name="no_svs">No SVS</string>
+    <string name="default_svs">SVS</string>
+    <string name="gst">GST</string>
+    <string name="no_gst">NO GST</string>
+    <string name="default_gst">GST</string>
+    <string name="discount">Discount (%)</string>
+    <string name="discount_percentage_e_g_10">discount percentage (e.g 10)</string>
+    <string name="cash">Cash</string>
+
+</resources>
